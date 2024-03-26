@@ -4,7 +4,7 @@ Welcome to my first touch at SASS or in oter words SCSS! 🌐
 
 ## Overview 📝
 
-Had an opportunity to do a course about SASS where I tried out some of the SASS technologiesĄ
+Had an opportunity to do a course about SASS where I tried out some of the SASS technologies
 
 
 ## Tech Stack 💻
